@@ -2,11 +2,11 @@
 
 Mô tả ngắn gọn về dự án của bạn.
 
-![Logo của dự án](https://linkdenhinh.png)
+![Logo của dự án](gs://saigonwaterbus-bc2f6.appspot.com/422821499_1074720680517913_4468107986729197546_n.jpg)
 
 ## 🚀 Demo
 
-Bạn có thể truy cập phiên bản demo tại [Link demo](https://link-demo.com).
+Bạn có thể truy cập phiên bản demo tại [Link demo](https://drive.google.com/drive/folders/1cSiw2Z0l_XduS1PBPoVX6Kzle9KqZSkm?usp=sharing).
 
 ## 📝 Mục lục
 
@@ -19,18 +19,17 @@ Bạn có thể truy cập phiên bản demo tại [Link demo](https://link-demo
 
 ## 📖 Giới thiệu
 
-Dự án này nhằm mục đích giúp người dùng **...**. Tại đây, bạn có thể giới thiệu ngắn về các chức năng và mục tiêu của dự án.
+Dự án này nhằm mục đích thực hiện đồ án học ở trường
 
 ## 🛠️ Cài đặt
 
 Để cài đặt và chạy dự án trên máy của bạn, làm theo các bước dưới đây:
 
 ```bash
-# Clone repo
-git clone https://github.com/your-username/your-repo.git
+# Down IDE Android Studio 
+https://developer.android.com/studio?hl=vi
 
-# Cài đặt các thư viện cần thiết
-npm install
+# Cài đặt SDK và máy ảo cần thiết
 
 # Chạy ứng dụng
-npm start
+

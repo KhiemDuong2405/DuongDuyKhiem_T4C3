@@ -2,7 +2,7 @@
 
 Mô tả ngắn gọn về dự án của bạn.
 
-![Logo của dự án](gs://saigonwaterbus-bc2f6.appspot.com/422821499_1074720680517913_4468107986729197546_n.jpg)
+![Logo của dự án](https://firebasestorage.googleapis.com/v0/b/saigonwaterbus-bc2f6.appspot.com/o/422821499_1074720680517913_4468107986729197546_n.jpg?alt=media&token=913b7f05-7e41-4c63-b213-fa9451319965)
 
 ## 🚀 Demo
 

@@ -49,7 +49,7 @@ Phiên bản SDK tối thiểu: 26
 Phiên bản khuyến nghị: 32
 
 # Chạy ứng dụng
-Device: Pixel 7 Pro
+Device: Pixel 7 Pro (Khuyến nghị)
 
 
   

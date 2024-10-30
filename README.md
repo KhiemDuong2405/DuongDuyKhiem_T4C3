@@ -41,10 +41,13 @@ Bạn có thể truy cập phiên bản demo tại [Link demo](https://drive.goo
 
 ## 🛠️ Hướng Dẫn Cài Đặt
  ```bash
-# Down IDE Android Studio 
+# Down IDE Android Studio
 https://developer.android.com/studio?hl=vi
 
 # Cài đặt SDK và máy ảo cần thiết
+Phiên bản SDK tối thiểu: 26
+Phiên bản khuyến nghị: 32
+Device: Pixel 7 Pro
 
 # Chạy ứng dụng
 

@@ -47,9 +47,9 @@ https://developer.android.com/studio?hl=vi
 # Cài đặt SDK và máy ảo cần thiết
 Phiên bản SDK tối thiểu: 26
 Phiên bản khuyến nghị: 32
-Device: Pixel 7 Pro
 
 # Chạy ứng dụng
+Device: Pixel 7 Pro
 
 
   

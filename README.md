@@ -9,8 +9,6 @@
 Dự án này nhằm mục đích thực hiện đồ án học ở trường
 
 
----
-
 ## 🌟 Điểm Nổi Bật
 - **Thiết Kế Thân Thiện:** Giao diện mượt mà và trực quan, giúp trải nghiệm người dùng dễ dàng và nhanh chóng.
 - **Hiệu Suất Cao:** Ứng dụng phản hồi nhanh, đảm bảo trải nghiệm không gián đoạn.
@@ -29,12 +27,12 @@ Dự án này nhằm mục đích thực hiện đồ án học ở trường
 ## 👥 Thành Viên Nhóm
 | Tên | Vai Trò | Liên Hệ |
 | --- | ------- | ------- |
-| **Dương Duy Khiêm** | TeamLeader | [LinkedIn của Khiêm] |
-| **Võ Quốc Đẩu** | Thiết Kế Giao Diện/Dev | [LinkedIn của Đẩu] |
-| **Hồ Trần Anh Quang** | Thiết Kế Giao Diện/Dev | [LinkedIn của Quang] |
-| **Phan Giang Bảo Ngọc** | Product Owner | [LinkedIn của Ngọc] |
-| **Lê Phan Hoàng Long** | Thiết Kế Giao Diện/Dev | [LinkedIn của Long]|
-| **Phan Phước Toàn** | Thiết Kế Giao Diện/Dev | [LinkedIn của thànhToàn]|
+| **Dương Duy Khiêm** | TeamLeader | 0854479778 |
+| **Võ Quốc Đẩu** | Thiết Kế Giao Diện/Dev | 0708 490 301 |
+| **Hồ Trần Anh Quang** | Thiết Kế Giao Diện/Dev | 0855 799 422 |
+| **Phan Giang Bảo Ngọc** | Product Owner | [Zalo của Ngọc] |
+| **Lê Phan Hoàng Long** | Thiết Kế Giao Diện/Dev | [Zalo của Long]|
+| **Phan Phước Toàn** | Thiết Kế Giao Diện/Dev | [Zalo của Toàn]|
 
 ---
 ## 🛠️ Demo

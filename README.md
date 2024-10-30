@@ -6,7 +6,7 @@
 
 Dự án này nhằm mục đích thực hiện đồ án học ở trường
 
-![Banner Ứng Dụng]([https://via.placeholder.com/1200x400](https://firebasestorage.googleapis.com/v0/b/saigonwaterbus-bc2f6.appspot.com/o/swb_bd.jpg?alt=media&token=225903a5-15f4-4171-a2c6-28dab5d23933]) 
+![Banner Ứng Dụng](https://firebasestorage.googleapis.com/v0/b/saigonwaterbus-bc2f6.appspot.com/o/swb_bd.jpg?alt=media&token=225903a5-15f4-4171-a2c6-28dab5d23933) 
 
 ---
 
